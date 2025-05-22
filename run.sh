@@ -1,0 +1,1 @@
+ mitmproxy --mode regular --listen-host 0.0.0.0 --listen-port 4040 -s savejson.py
